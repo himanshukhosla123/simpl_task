@@ -50,7 +50,7 @@ class SimplApp extends Component {
         <StatusBar 
             hidden={false}
             translucent={true}
-            backgroundColor="rgba(0, 187, 184,0.6)"
+            backgroundColor="rgba(0, 187, 184,1)"
         />
             { Platform.OS === 'android' && Platform.Version >= 20 ?
                 <View

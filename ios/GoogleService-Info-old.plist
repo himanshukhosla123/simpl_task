@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>235170819255-4pehnom8a22sfkhpsu3i0dpva3o3rnjb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235170819255-4pehnom8a22sfkhpsu3i0dpva3o3rnjb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZpNRZHjTDvAPnhXzi_xOhOM5PPyhAe-c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235170819255</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.tinkersaleProject</string>
+	<key>PROJECT_ID</key>
+	<string>tinkersale-e6a73</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tinkersale-e6a73.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235170819255:ios:c064220a9f522e6b</string>
+	<key>DATABASE_URL</key>
+	<string>https://tinkersale-e6a73.firebaseio.com</string>
+</dict>
+</plist>

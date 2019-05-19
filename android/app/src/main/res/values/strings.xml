@@ -1,0 +1,14 @@
+<resources>
+<!-- <string name="facebook_app_id">179441562903509</string> -->
+    <string name="app_name">Simpl-Hk</string>
+     <!-- <string name="fb_app_id">179441562903509</string>
+    <string name="fb_login_protocol_scheme">fb179441562903509</string> -->
+
+    <!-- mukuls -->
+     <!-- <string name="fb_app_id">1695834490709818</string>
+    <string name="fb_login_protocol_scheme">fb1695834490709818</string> -->
+    
+    <!-- tinkersales one -->
+    <string name="fb_app_id">305358790223397</string>
+    <string name="fb_login_protocol_scheme">fb305358790223397</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525793231255",
+    "firebase_url": "https://tinkersale-1533894990903.firebaseio.com",
+    "project_id": "tinkersale-1533894990903",
+    "storage_bucket": "tinkersale-1533894990903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525793231255:android:57bf61718ce1e626",
+        "android_client_info": {
+          "package_name": "com.tinkersale.tinkersale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525793231255-rrsie3ubj9o1496n7j67uq71b0sprej0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQRFJG1rICU3eGik4q3_b7rdJ2dIk15EM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
